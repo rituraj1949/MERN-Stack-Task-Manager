@@ -158,18 +158,6 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 
-## Useful Links
-
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
-
-- Official Docs
-
-  - Reactjs docs: https://reactjs.org/docs/getting-started.html
-  - npmjs docs: https://docs.npmjs.com/
-  - Mongodb docs: https://docs.mongodb.com/manual/introduction/
-  - Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
 
 
 ## Contact
